@@ -1,0 +1,16 @@
+{
+  "name": "justinmeth",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.ts --exec 'ts-node' src/index.ts"
+  },
+  "bin": {
+    "npm-install-meth": "./Justinmeth.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
